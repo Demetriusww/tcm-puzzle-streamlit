@@ -7,7 +7,7 @@ import streamlit.components.v1 as components
 
 GAME_URL = (
     "https://demetriusww.github.io/tcm-ancient-book-puzzle/"
-    "?v=streamlit-20261117b"
+    "?v=streamlit-20261117c"
 )
 PREVIEW_PATH = Path(__file__).parent / "assets" / "game-preview.png"
 if PREVIEW_PATH.exists():
